@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 🔧 **About Me**  
 - 💻 Tech Enthusiast since 2019  
 - 🎯 Passionate about solving complex problems using code and machines  
-- 🧠 Deep knowledge of **Compiler Design**, **CPU Architecture**, and **Security Tools**  
+- 🧠 Deep knowledge of **Compiler Design**, **Database Design** , **CPU Architecture**, and **Security Tools**  
 - 🚀 Strong in **Full Stack Development**, **App Development**, and **System Design**
 
 ---
