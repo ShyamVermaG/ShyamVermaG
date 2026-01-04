@@ -136,7 +136,7 @@ I currently work as a **DevOps Engineer**, building **automation-first cloud pla
 - Real-time booking & monitoring
 - Production hosting & updates via Play Console
 
-🔗 **Play Store:** *(Add your link)*
+🔗 **Play Store:** *([Add your link]([https://play.google.com/store/apps/details?id=com.SShop.sshop](https://play.google.com/store/apps/details?id=com.SShop.Tirri)))*
 
 ---
 
@@ -144,7 +144,7 @@ I currently work as a **DevOps Engineer**, building **automation-first cloud pla
 - Role-based appointment scheduling
 - Firebase backend + Flutter frontend
 
-🔗 **Play Store:** *(Add your link)*
+🔗 **Play Store:** *([Add your link](https://play.google.com/store/apps/details?id=com.reach7.HealSphere))*
 
 ---
 
@@ -153,7 +153,7 @@ I currently work as a **DevOps Engineer**, building **automation-first cloud pla
 - Automated order & inventory workflows
 - Backend APIs + Flutter app
 
-🔗 **Play Store:** *(Add your link)*
+🔗 **Play Store:** *([Add your link](https://play.google.com/store/apps/details?id=com.SShop.sshop))*
 
 ---
 
