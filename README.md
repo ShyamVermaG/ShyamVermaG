@@ -136,7 +136,7 @@ I currently work as a **DevOps Engineer**, building **automation-first cloud pla
 - Real-time booking & monitoring
 - Production hosting & updates via Play Console
 
-🔗 **Play Store:** *([Add your link]([https://play.google.com/store/apps/details?id=com.SShop.sshop](https://play.google.com/store/apps/details?id=com.SShop.Tirri)))*
+🔗 **Play Store:** *([Add your link](https://play.google.com/store/apps/details?id=com.SShop.Tirri))*
 
 ---
 
