@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shyam Verma</h1>
 <h3 align="center">
-DevOps Engineer | Full Stack Developer | System & Cloud Engineer | Automation Specialist
+DevOps Engineer | Cloud Automation | Kubernetes & Terraform | System & Full Stack Engineer
 </h3>
 
 <p align="center">
@@ -9,269 +9,221 @@ DevOps Engineer | Full Stack Developer | System & Cloud Engineer | Automation Sp
 
 ---
 
-## 🧭 Engineering Journey (Chronological & Real)
+## 🚀 CURRENT FOCUS (2024 – Present)
 
-**2019 – 2021**  
-→ Core Programming, Data Structures, Algorithms, Systems, Security & Embedded  
+### DevOps Engineer | Cloud & Platform Engineering
 
-**2021 – 2024**  
-→ Full-Stack Web & Mobile Applications (Production, Play Store, Real Users)  
+I currently work as a **DevOps Engineer**, building **automation-first cloud platforms** that support scalable microservices and fast, reliable releases.
 
-**2024 – Present**  
-→ DevOps Engineering, Cloud Automation, CI/CD, Kubernetes, Terraform, Microservices  
-
-This progression enables me to **design DevOps platforms grounded in real development and production realities**.
-
----
-
-## 🚀 Professional Summary
-
-DevOps Engineer with **1.5+ years of production DevOps experience** and **3+ years of full-stack development experience**.  
-Strong background in **systems programming, automation, security tooling, compiler design concepts, and cloud-native architectures**.
-
-I specialize in **CI/CD automation, Kubernetes-based microservices, Terraform-driven infrastructure**, and **developer-first DevOps systems**.
+**What I actively do today:**
+- Design and maintain **CI/CD pipelines** using GitHub Actions, Jenkins, Codemagic
+- Provision and manage infrastructure using **Terraform (IaC)**
+- Deploy and operate **containerized microservices on Kubernetes**
+- Implement **rolling deployments, rollback strategies, and environment isolation**
+- Improve release reliability through logging, validation, and monitoring
+- Bridge development and operations with **developer-friendly DevOps systems**
 
 ---
 
-## 🛠️ COMPLETE SKILLS & TECHNOLOGIES (Everything I Know & Use)
-
-### ☁️ DevOps, Cloud & Infrastructure
-- **CI/CD:** GitHub Actions, Jenkins, Codemagic  
-- **Containers:** Docker  
-- **Orchestration:** Kubernetes  
-- **Infrastructure as Code:** Terraform  
-- **Cloud Platforms:** AWS, Google Cloud Platform  
-- **Microservices:** REST-based, containerized services  
-- **Config & Ops:** Linux, YAML, JSON  
-- **Deployment Strategies:** Rolling updates, rollback, environment isolation  
-
----
-
-### 💻 Programming Languages
-- **Low-Level & Systems:** C, C++  
-- **Backend & Services:** Java, PHP  
-- **Automation & Scripting:** Python, Bash  
-- **Frontend:** JavaScript  
-- **Mobile:** Dart (Flutter)
-
----
-
-### 🧱 Backend, Databases & Messaging
-- **Databases:**  
-  - Firestore  
-  - Firebase Realtime DB  
-  - MongoDB  
-  - MySQL / SQL  
-  - PostgreSQL  
-- **Backend Systems:**  
-  - Laravel  
-  - REST APIs  
-  - Firebase Functions (Cloud Functions)  
-- **Messaging (Theory & Architecture):**  
-  - Apache Kafka (producer/consumer concepts, event streaming theory)
-
----
-
-### 📱 Mobile & Cloud Services
-- **Flutter & Android**
-- **Firebase:**  
-  - Authentication  
-  - Firestore  
-  - Firebase Storage  
-  - Firebase Functions  
-- **Google Cloud Console**
-- **Google Maps API**
-- **Google Play Console (Production Hosting)**
-
----
-
-### 🔐 Security, Networking & Ethical Hacking (Hands-On)
-- **Network Analysis:** Wireshark  
-- **Reconnaissance:** NMap  
-- **Attack Techniques (Educational):**  
-  - Brute Force concepts  
-  - SQL Injection basics  
-- **Hardware Tools:** Rubber Ducky (USB HID attack concepts)  
-- **OS:** Kali Linux  
-- **Tor Networking (Basics)**  
-
----
-
-### 🤖 Automation, Testing & Scripting
-- **Python & Bash automation**
-- **Selenium Web Automation**
-- **Git workflow automation**
-- **Log parsing & system validation scripts**
-
----
-
-### 🧠 Systems, Algorithms & Core CS
-- Compiler Design (DFA, NFA, parsing logic)
-- CPU Architecture
-- OS fundamentals (Linux)
-- Data Structures & Algorithms
-- Project Management fundamentals
-
----
-
-### 🔌 Embedded & Hardware
-- **Arduino**
-- **IoT Sensors**
-- Hardware-software integration logic
-
----
-
-## 📱 Production Applications (Google Play Store)
-
-### 🚕 Online Cab Booking Platform
-**Users:** 250+ live users  
-**Tech:** Flutter · Firebase · Backend APIs  
-
-- Real-time booking & driver allocation
-- User, Driver & Admin applications
-- Production hosting & updates via Play Console
-
-🔗 **Play Store:** *(Add your real link here)*
-
----
-
-### 🧑‍⚕️ Doctor Appointment Application
-- Appointment scheduling
-- Role-based access (User / Doctor / Admin)
-- Firebase backend + mobile frontend
-
-🔗 **Play Store:** *(Add your real link here)*
-
----
-
-### 🛒 E-Commerce Application
-**Users:** 200+  
-
-- Order lifecycle automation
-- Inventory management
-- Admin dashboards
-- Backend APIs + Flutter app
-
-🔗 **Play Store:** *(Add your real link here)*
-
----
-
-## 📦 ALL PROJECTS (Sequential & Technical)
-
-### 🧠 Core CS & Systems Projects
-- **Custom C Library**  
-  → Multi-type linked list handling heterogeneous data  
-
-- **Custom Condition-Based Compiler (C → JSON)**  
-  → Built using **DFA & NFA concepts**  
-  → Converts conditional logic into structured JSON  
-
-- **HTML to JSON Converter**  
-  → DFA-based parsing inspired by compiler design  
-
----
-
-### 📍 Algorithms & Logic
-- **Custom Best Route Finder Algorithm**  
-  → Real-world place routing logic  
-  → Optimized path selection based on constraints  
-
----
-
-### 🌐 Web & Application Projects
-- Inventory & Billing System  
-- Online Examination System  
-- Matrimonial Website  
-- Cake Booking System  
-- Project Management Application  
-
----
-
-### 🔐 Security & Automation Projects
-- Selenium-based data extraction automation
-- Network traffic analysis using Wireshark
-- Recon & scanning using NMap
-- Git auto-push & CI helper scripts
-- Brute-force & injection concepts (educational & testing)
-
----
-
-## ☁️ DEVOPS PROJECTS (Production-Grade)
+## ☁️ ACTIVE DEVOPS PROJECTS
 
 ### 🔐 Compliance Management Platform
-**Tech:** Terraform · Kubernetes · Docker · GitHub Actions  
+**Tech:** Terraform · Kubernetes · Docker · GitHub Actions · Linux  
 
-- Environment provisioning using Terraform
-- Kubernetes microservices architecture
-- CI/CD pipelines with validation & rollback
+- Automated cloud infrastructure provisioning using Terraform
+- Kubernetes-based microservices with environment separation
+- Policy-driven CI/CD pipelines with validation and rollback
 - Audit-ready logs and controlled deployments
 
 ---
 
 ### 🚢 Kubernetes Microservices Platform
-- Dockerized services
-- Health checks & scaling
-- ConfigMaps & Secrets
-- Zero-downtime deployments
+- Dockerized services deployed on Kubernetes
+- Health probes, scaling, resource limits
+- ConfigMaps & Secrets management
+- Zero-downtime rolling updates
 
 ---
 
 ### 🧱 Terraform Infrastructure Automation
-- Modular Terraform design
-- Multi-environment support
-- CI-driven `plan` & `apply`
-- ~70% reduction in manual infra effort
+- Modular Terraform architecture
+- Multi-environment provisioning (dev / stage / prod)
+- CI-driven `terraform plan` & `apply`
+- Reduced manual infrastructure effort by ~70%
 
 ---
 
 ### 🔁 CI/CD Automation Systems
-- Build → Test → Containerize → Deploy
-- GitHub Actions & Jenkins
-- Automated validation and rollback
+- Code → Build → Test → Docker → Deploy
+- GitHub Actions & Jenkins pipelines
+- Automated validation and rollback strategies
 
 ---
 
-## 🏢 Professional Experience
+## 🛠️ COMPLETE TECHNOLOGY STACK (CURRENT → FOUNDATIONAL)
 
-### **DevOps Engineer — Reach7 Pvt. Ltd.**  
+### ☁️ DevOps, Cloud & Microservices
+- CI/CD: GitHub Actions, Jenkins, Codemagic  
+- Infrastructure as Code: Terraform  
+- Containers: Docker  
+- Orchestration: Kubernetes  
+- Cloud: AWS, Google Cloud Platform  
+- Microservices: REST-based architectures  
+- OS & Config: Linux, YAML, JSON  
+
+---
+
+### 💻 Programming & Automation
+- Python, Bash  
+- Java  
+- JavaScript, PHP  
+- C, C++  
+
+---
+
+### 🧱 Backend, Databases & Messaging
+- Firestore, Firebase Realtime DB
+- Firebase Functions, Firebase Storage
+- MongoDB
+- MySQL / SQL
+- PostgreSQL
+- Apache Kafka (theory, architecture)
+
+---
+
+### 📱 Mobile & Cloud Services
+- Flutter & Android
+- Firebase Authentication
+- Google Maps API
+- Google Cloud Console
+- Google Play Console
+
+---
+
+### 🔐 Security, Networking & Ethical Testing
+- Wireshark (traffic analysis)
+- NMap (network scanning)
+- Brute force concepts (educational)
+- SQL Injection basics
+- Rubber Ducky (HID attack concepts)
+- Kali Linux
+- Tor networking basics
+
+---
+
+### 🤖 Automation, Testing & Tooling
+- Selenium automation
+- Git workflow automation
+- Python & Bash scripting
+- Log analysis scripts
+
+---
+
+### 🔌 Embedded & Hardware
+- Arduino
+- IoT sensors
+- Hardware–software integration
+
+---
+
+## 📦 RECENT & ONGOING DEVELOPMENT WORK (PRODUCTION)
+
+### 📱 Google Play Store Applications
+
+#### 🚕 Online Cab Booking Platform
+- 250+ live users
+- User, Driver & Admin apps
+- Real-time booking & monitoring
+- Production hosting & updates via Play Console
+
+🔗 **Play Store:** *(Add your link)*
+
+---
+
+#### 🧑‍⚕️ Doctor Appointment Application
+- Role-based appointment scheduling
+- Firebase backend + Flutter frontend
+
+🔗 **Play Store:** *(Add your link)*
+
+---
+
+#### 🛒 E-Commerce Application
+- 200+ users
+- Automated order & inventory workflows
+- Backend APIs + Flutter app
+
+🔗 **Play Store:** *(Add your link)*
+
+---
+
+## 📦 EARLIER FULL-STACK & SYSTEM PROJECTS
+
+### 🧠 Algorithms, Systems & Compiler Work
+- **Custom Best Route Finder Algorithm**
+  → Real-world place routing logic
+
+- **Custom Condition-Based Compiler (C → JSON)**
+  → Built using DFA & NFA concepts
+
+- **HTML to JSON Converter**
+  → DFA-based parsing engine
+
+- **Custom C Library**
+  → Multi-type linked list for heterogeneous data
+
+---
+
+### 🌐 Application & Business Systems
+- Inventory & Billing System
+- Online Examination System
+- Matrimonial Website
+- Cake Booking System
+- Project Management Application
+
+---
+
+### 🔐 Security & Automation Projects
+- Selenium-based automation bots
+- Network analysis with Wireshark
+- Reconnaissance using NMap
+- Brute-force & injection testing (educational)
+- Git automation scripts
+
+---
+
+## 🏢 PROFESSIONAL EXPERIENCE
+
+### **DevOps Engineer — Reach7 Pvt. Ltd.**
 *Jun 2024 – Present*
 
 - CI/CD automation (↓ 60% manual effort)
-- Terraform infrastructure provisioning
+- Terraform-based cloud infrastructure
 - Kubernetes microservice deployments
-- Incident reduction through logs & monitoring
+- Improved incident response via logs & monitoring
 
 ---
 
-### **Senior Software Engineer — Tirri**  
+### **Senior Software Engineer — Tirri**
 *Jan 2023 – Jun 2024*
 
-- Cab booking production systems
-- Admin monitoring tools
-- CI/CD & release support
+- Production cab booking systems
+- Admin monitoring dashboards
+- Deployment & CI/CD support
 
 ---
 
-### **Senior Software Engineer — SShop**  
+### **Senior Software Engineer — SShop**
 *Jan 2021 – Jun 2023*
 
 - E-commerce platform (backend + Flutter)
-- Production deployments
+- API development & deployments
 - System reliability improvements
 
 ---
 
-## 📊 GitHub Analytics
+## 🧠 ENGINEERING PHILOSOPHY
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ShyamVermaG&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShyamVermaG&theme=tokyonight" />
-</p>
+> *“Production reliability comes from understanding systems end to end.”*
 
----
-
-## 🧠 Engineering Philosophy
-
-> *“DevOps without system knowledge is automation without understanding.”*
-
-I build **systems that scale**, **pipelines developers trust**, and **infrastructure that survives production pressure**.
+DevOps is most effective when built by engineers who understand **code, infrastructure, security, and failure modes**.
