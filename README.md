@@ -1,106 +1,211 @@
 <h1 align="center">Hi 👋, I'm Shyam Verma</h1>
 <h3 align="center">
-DevOps Engineer | Full Stack Developer | Automation & Cloud Enthusiast
+DevOps Engineer | Full Stack Developer | Cloud Automation | System Engineering
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShyamVermaG&label=Profile%20Views&color=0e75b6&style=flat" alt="profile-views" />
+  <img src="https://komarev.com/ghpvc/?username=ShyamVermaG&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
+
+---
+
+## 🧭 Engineering Journey (Sequential)
+
+**2019 – 2021** → Core Programming, Systems & Security  
+**2021 – 2024** → Full-Stack & Mobile Applications (Production & Play Store)  
+**2024 – Present** → DevOps, Cloud Automation, CI/CD, Kubernetes & Terraform  
+
+This progression allows me to **design DevOps systems that actually work for developers**, not against them.
 
 ---
 
 ## 🚀 Professional Summary
 
-DevOps Engineer with **1.5+ years of hands-on DevOps experience** and **3+ years of full-stack software development experience**.  
-Specialized in **CI/CD automation, cloud infrastructure, container orchestration, and scalable system design**.  
-Strong development background enables me to build **production-grade pipelines, resilient infrastructure, and developer-friendly automation**.
+DevOps Engineer with **1.5+ years of production DevOps experience** and **3+ years of full-stack development experience**.  
+Experienced in building **CI/CD pipelines, Terraform infrastructure, Kubernetes microservices**, and **production mobile & web applications used by real users**.
+
+I bring **developer empathy + operations discipline**, enabling faster releases, stable systems, and scalable cloud platforms.
 
 ---
 
-## 🔧 What I Do Best
+## 🛠️ Complete Technology Stack (What I Actually Use)
 
-- Design and maintain **CI/CD pipelines** for reliable and fast releases
-- Automate infrastructure using **Infrastructure as Code (Terraform)**
-- Deploy and manage **containerized microservices on Kubernetes**
-- Bridge the gap between **development and operations**
-- Build scalable backend systems and production-ready applications
-
----
-
-## 🧠 Technical Expertise
-
-### ⚙️ DevOps & Cloud
+### ⚙️ DevOps & Cloud (Current Focus)
 - **CI/CD:** GitHub Actions, Jenkins, Codemagic  
+- **Infrastructure as Code:** Terraform (modules, env separation, remote state)  
 - **Containers:** Docker  
-- **Orchestration:** Kubernetes  
-- **Infrastructure as Code:** Terraform  
-- **Cloud Platforms:** AWS, Google Cloud Platform  
-- **Monitoring & Debugging:** Logs, pipeline monitoring, rollback strategies  
+- **Orchestration:** Kubernetes (deployments, services, secrets, scaling)  
+- **Cloud:** AWS, Google Cloud Platform  
 - **OS & Config:** Linux, YAML, JSON  
-
-### 💻 Programming & Automation
-- **Languages:** Python, Bash, Java, C, C++, JavaScript, PHP  
-- **Automation:** Selenium, custom scripts for CI/CD & system tasks  
-- **Version Control:** Git, GitHub  
-
-### 🌐 Full Stack & App Development
-- **Frontend:** HTML, CSS, Bootstrap, Responsive Design  
-- **Backend:** Laravel, REST APIs  
-- **Mobile:** Flutter, Android  
-- **Databases:** SQL, Database Design  
-- **Auth & Cloud Services:** Firebase, Google APIs  
-
-### 🔐 Systems & Security Fundamentals
-- Linux Internals, CPU Architecture  
-- Compiler Design & DFA concepts  
-- Security Tools: Kali Linux, Wireshark, SQL Injection basics  
+- **Monitoring & Ops:** Logs, rollback strategies, pipeline observability  
 
 ---
 
-## 🏗️ Professional Experience
+### 💻 Programming & Development (Strong Foundation)
+- **Languages:** Python, Bash, Java, C, C++, JavaScript, PHP  
+- **Backend:** Laravel, REST APIs  
+- **Frontend:** HTML, CSS, Bootstrap, Responsive Design  
+- **Mobile:** Flutter, Android (Play Store deployment)  
+- **Databases:** SQL, Database Design  
+- **Auth & Services:** Firebase, Google APIs  
+
+---
+
+### 🔐 Systems, Scripting & Security
+- **Automation:** Python & Bash scripting  
+- **Testing & Bots:** Selenium  
+- **Security Tools:** Kali Linux, Wireshark  
+- **Concepts:** SQL Injection basics, network traffic analysis  
+- **Systems Knowledge:**  
+  - Compiler Design (DFA, parsing concepts)  
+  - CPU Architecture  
+  - Linux internals  
+
+---
+
+## 📱 Production Apps (Hosted on Google Play Store)
+
+> Real apps, real users, real production responsibility
+
+### 🚕 Online Cab Booking Platform
+**Platforms:** Android (Flutter)  
+**Users:** 250+ live users  
+**Modules:** User · Driver · Admin  
+
+- Real-time booking & driver allocation
+- Firebase authentication & backend services
+- Admin monitoring & issue handling
+- Production deployment & updates via Play Console
+
+🔗 **Play Store:** *(Add your actual link here)*
+
+---
+
+### 🧑‍⚕️ Doctor Appointment Application
+**Platforms:** Android  
+**Modules:** Patient · Doctor · Admin  
+
+- Appointment scheduling & management
+- Role-based access control
+- Backend APIs + mobile UI
+
+🔗 **Play Store:** *(Add your actual link here)*
+
+---
+
+### 🛒 E-Commerce Application
+**Users:** 200+  
+**Features:** Orders · Inventory · Admin Dashboard  
+
+- API-driven order lifecycle
+- Automated inventory sync
+- Backend + Flutter frontend
+- Production hosting & maintenance
+
+🔗 **Play Store:** *(Add your actual link here)*
+
+---
+
+## 📦 Development Projects (Sequential – Old to New)
+
+1. **Inventory & Billing System**  
+   → Reporting, customer management, billing workflows  
+
+2. **Online Examination System**  
+   → Teacher & Student dashboards, exam creation  
+
+3. **Matrimonial Website**  
+   → Matchmaking logic, custom admin dashboard  
+
+4. **Cake Booking System**  
+   → Multi-panel order management  
+
+5. **Project Manager App**  
+   → Secure JSON-based tracking  
+
+6. **HTML to JSON Converter**  
+   → Compiler-inspired DFA parsing logic  
+
+7. **Dynamic Chart Generator Library**  
+   → Convert raw data to charts programmatically  
+
+8. **Multi-Type Linked List in C**  
+   → Custom data structure supporting mixed data  
+
+---
+
+## 🔐 Scripting, Automation & Security Work
+
+- Git auto-push & workflow standardization scripts
+- Selenium automation for structured data extraction
+- Log parsing & system validation scripts
+- Network traffic inspection using Wireshark
+- Security testing using Kali Linux toolset
+
+---
+
+## ☁️ DevOps Projects (Production-Grade)
+
+### 🔐 Compliance Management Platform (DevOps)
+**Tech:** Terraform · Kubernetes · Docker · GitHub Actions  
+
+- Infrastructure provisioning using Terraform
+- Kubernetes-based microservices architecture
+- Policy-driven CI/CD pipelines
+- Audit-ready logs & rollback mechanisms
+- Environment isolation (dev/stage/prod)
+
+---
+
+### 🚢 Kubernetes Microservices Platform
+- Dockerized services deployed on Kubernetes
+- Health probes, rolling updates, scaling
+- ConfigMaps & Secrets management
+
+---
+
+### 🧱 Terraform Cloud Infrastructure
+- Modular Terraform architecture
+- Multi-environment infrastructure
+- CI-driven `plan` & `apply`
+- Reduced manual infra work by ~70%
+
+---
+
+### 🔁 CI/CD Automation
+- Code → Build → Test → Docker → Deploy
+- GitHub Actions & Jenkins pipelines
+- Automated validation & rollback
+
+---
+
+## 🏢 Professional Experience
 
 ### **DevOps Engineer — Reach7 Pvt. Ltd.**  
-📅 *Jun 2024 – Present*
+*Jun 2024 – Present*
 
-- Automated CI/CD pipelines reducing manual release effort by **~60%**
-- Provisioned multi-environment cloud infrastructure using **Terraform**
-- Deployed and managed **Dockerized microservices on Kubernetes**
-- Implemented automated rollback and deployment validation
-- Improved incident resolution via log analysis and pipeline monitoring
+- Automated CI/CD pipelines (↓ 60% manual effort)
+- Terraform-based infrastructure provisioning
+- Kubernetes deployments for microservices
+- Incident reduction through monitoring & logs
 
 ---
 
 ### **Senior Software Engineer — Tirri**  
-📅 *Jan 2023 – Jun 2024*
+*Jan 2023 – Jun 2024*
 
-- Developed production-grade **cab booking systems** (User, Driver, Admin)
-- Improved system observability through admin dashboards
-- Supported CI/CD workflows and stable environment-based deployments
-- Resolved production issues, minimizing downtime
+- Production cab booking applications
+- Admin monitoring systems
+- CI/CD & deployment support
 
 ---
 
 ### **Senior Software Engineer — SShop**  
-📅 *Jan 2021 – Jun 2023*
+*Jan 2021 – Jun 2023*
 
-- Built full-scale **e-commerce platform** with multi-role access
-- Delivered backend APIs, admin panels, and Flutter apps
-- Supported deployments and improved system reliability
-
----
-
-## 📦 Key Projects
-
-- 🚕 **Online Cab Booking Platform** — Real-time system with 250+ live users  
-- 🛒 **E-Commerce Platform** — Automated inventory & order sync (200+ users)  
-- 🧑‍⚕️ **Doctor Appointment System** — User, Doctor & Admin apps  
-- 🔐 **Project Manager App** — Secure JSON-based project tracking  
-- 📚 **Online Examination System** — Teacher & Student panels  
-- 🧾 **Inventory & Billing System** — Reporting & customer management  
-- 🤖 **Automation Scripts** — Git auto-push, CI helpers, Selenium bots  
-- 🧠 **HTML to JSON Converter** — Inspired by compiler & DFA concepts  
-- 📊 **Dynamic Chart Generator** — Data to bar chart library  
-- 🛠️ **Multi-Type Linked List (C)** — Custom C library for mixed data handling  
+- Full e-commerce platform
+- Backend APIs & Flutter apps
+- Production deployments
 
 ---
 
@@ -113,23 +218,8 @@ Strong development background enables me to build **production-grade pipelines, 
 
 ---
 
-## 🏆 GitHub Trophies
+## 🧠 Engineering Philosophy
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShyamVermaG&theme=darkhub&margin-w=15" />
-</p>
+> *“DevOps works best when the engineer understands development, systems, and production failures.”*
 
----
-
-## 📫 Connect With Me
-
-- 📧 Email: **sv469370@gmail.com**
-- 🌍 Location: India
-- 💼 Open to **DevOps / SRE / Platform Engineer** roles
-
----
-
-### 💡 Philosophy
-
-> *“Strong DevOps is built by engineers who understand how software works under the hood.”*  
-From compiler logic and backend systems to cloud infrastructure and CI/CD automation — I enjoy building **reliable, scalable, and production-ready systems**.
+I build **automation that developers trust**, **infrastructure that scales**, and **systems that survive production**.
